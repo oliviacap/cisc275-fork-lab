@@ -11,3 +11,7 @@ John Doe, Senior ELEG student, favorite programming language is Bash
 Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
 
 Olivia Caponigro, Sophomore CISC student, favorite programming language is c++
+
+partners: Talia Feldman, Camryn Isaksen, Paul Traumiller
+
+GardenPal is the name of our project. 
